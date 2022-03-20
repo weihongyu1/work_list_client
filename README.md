@@ -1,12 +1,19 @@
-# work_list_client
-待办项目前端仓库
+# test-client
 
-**主要功能点：**
+## Project setup
+```
+npm install
+```
 
-- 工作待办清单
-- 生活待办清单
-- 购物清单
-- 愿望清单
-- 实现个人中心资料编辑
-- 适配ANDROID手机
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
